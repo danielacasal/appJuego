@@ -35,7 +35,7 @@ const StartGameScreen = ({onStartGame}) => {
     <View style={styles.container}>
         <Text style={styles.title}>Start Game</Text>
         <Card style={styles.inputContainer}>
-            <Text style={styles.subtitle}>Choose a number</Text>
+            <Text style={styles.subtitle}>Choose a number!</Text>
             <Input 
              blurOnSubmit 
              autoCapitalize="none" 
